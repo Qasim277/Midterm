@@ -48,7 +48,7 @@ In this section, discuss the articles you have read on the subject by giving ref
 
 new citation for my @sokolov2020complex or [@sokolov2020complex]
 
-Qasim's great article [@qasim2023] 
+Qasim's great article [@Qasim2023] 
 
 
 **References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
