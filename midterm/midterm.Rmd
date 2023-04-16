@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Potato resources and use in Russia"
 author: 
-  - Kerimov Gasym[^1]
+  - Kerimov Gasym 
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -34,26 +34,58 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 [^1]: 20080725
 
-# Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
+***Research question ***
 
-The sections in your project assignment should definitely include the sections in this text. Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+How have changes in potato resource availability and use impacted the food security and economic development of Russia?
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
+**Introduction**
+
+Potatoes are a staple food in Russian cuisine and have been a crucial resource for the country for centuries. Over the years, the availability and use of potatoes have undergone significant changes in Russia due to various factors such as economic and political transitions, technological advancements, and climate change. Understanding the historical and current trends in potato resources and use in Russia can shed light on their impact on the country's food security and economic development. The dataset includes information on  details, such as:
+
+- **Stocks at the beginning of the year**
+
+- **Production**
+
+- **Imports, including imports**    
+
+- **Total Resources**
+
+- **Productive consumption**
+
+- **Losses**
+
+- **Export,including export**
+
+- **Personal consumption **
+
+- **Stocks at the end of the year **
+
+This study aims to examine the historical and current trends in potato resources and use in Russia and analyze their impact on the country's food security and economic development. By using both primary and secondary sources of data, including official statistics, scholarly articles, and expert interviews, this study will provide an in-depth analysis of the various factors that have influenced the potato industry in Russia over time. The findings of this research will contribute to a better understanding of the importance of potato resources and use in Russia and can inform policies aimed at improving food security and economic development in the country.
+1270064-blank-754
+
+Potato is an important crop in the world and in our country. Gross production is more than 370 million tons. More than half of the world production is in developing countries for the
+nutrition of the population. In Russia, it is also a fundamental element of the food security of the country, since the basis of the population’s nutrition is bread and potatoes. Its economic value is also increasing due to the use of potato starch for various purposes - from confectionery production to
+oil drilling.
+According to FAO, China, India and Russia are the main producers of gross potato. However, gross production is not an indicator of industry development. The main indicator is crop productivity. In terms of productivity, Russia is in one of the last places. According to FAOSTAT, the average
+world productivity in 2016 was 19.6 t·ha-1, in Russia – 14.6. The yield growth of this crop is observed in all countries and continents; the world rating is headed by the USA and New Zealand, where the average yield was 49.0 t·ha-1
+
+As stated in the World Bank report, the growth of agricultural production is the engine of the development of related industries, and in general the economies of low-income countries (World Bank, 2007), which is confirmed by numerous research.
+
+In such conditions, the global market promotes the development of regional agricultural enterprises. The processes of economic integration and trade liberalization have a significant impact on market volumes and food security (Demichev, 2019). The latter problem is urgent for potato markets in many countries of the world.
+
+Availability of the agri-food market at the national and regional levels creates prerequisites for the development of export-oriented industries, although it is accompanied by objective difficulties in promoting products to final consumers.
+
+The problem of realizing the growth potential of agricultural producers is solved differently in various studies. Some researchers consider the rational placement of production as the basis for production development, taking into account natural factors, such as seasonality.
+
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least six** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+@sokolov2020complex or [@sokolov2020complex]
+
+@animitsa2014evolution or [@animitsa2014evolution]
 
 
-new citation for my @sokolov2020complex or [@sokolov2020complex]
-
-Qasim's great article [@Qasim2023] 
-
-
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
+@demichev2019sustainable or [@demichev2019sustainable]
 
 \newpage
 # References {#references}
