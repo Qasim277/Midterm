@@ -61,7 +61,8 @@ Potatoes are a staple food in Russian cuisine and have been a crucial resource f
 - **Stocks at the end of the year **
 
 This study aims to examine the historical and current trends in potato resources and use in Russia and analyze their impact on the country's food security and economic development. By using both primary and secondary sources of data, including official statistics, scholarly articles, and expert interviews, this study will provide an in-depth analysis of the various factors that have influenced the potato industry in Russia over time. The findings of this research will contribute to a better understanding of the importance of potato resources and use in Russia and can inform policies aimed at improving food security and economic development in the country.
-![Caption for the picture.](1270064-blank-754.png)
+
+![alt text](static/img/1270064-blank-754)
 
 Potato is an important crop in the world and in our country. Gross production is more than 370 million tons. More than half of the world production is in developing countries for the
 nutrition of the population. In Russia, it is also a fundamental element of the food security of the country, since the basis of the population’s nutrition is bread and potatoes. Its economic value is also increasing due to the use of potato starch for various purposes - from confectionery production to
