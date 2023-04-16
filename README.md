@@ -5,6 +5,8 @@
 **Prepare a report with RMarkdown in RStudio by selecting a data set
 (any data set).**
 
+![graphs](https://github.com/Qasim277/Midterm/blob/main/1270064-blank-754.png)
+
 -   Term project will be the analysis of a data set you choose.
 
 -   The data set can be an existing data or you can collect data by
